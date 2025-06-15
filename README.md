@@ -1,5 +1,5 @@
 # OIBSIP_WebDevelopment_Task1
-I built as part of my internship at Oasis Infobyte. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It includes a responsive layout and intuitive interface.
+I built this project as part of my internship at Oasis Infobyte. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It includes a responsive layout and intuitive interface.
 
 # 🧮 Calculator – OIBSIP Level 2 Task 1
 
@@ -53,21 +53,22 @@ JavaScript handles user interactions through event listeners, which trigger func
 ## 📸 Preview
 
 ![Calculator Preview](screenshot.png)  
-*(You can add a screenshot of your project here)*
+![CALCULATOR](https://github.com/user-attachments/assets/55676875-9461-4967-912c-e18f8571d072)
+
 
 ---
 
 ## 📽️ Demo Video
 
 Check out the working demo on YouTube:  
-🔗 [Watch Video](https://youtube.com/your-demo-link) *(Replace with your actual YouTube video link)*
+🔗 [Watch Video] https://youtu.be/y9wvG9UQ7pI
 
 ---
 
 ## 🔗 GitHub Repository
 
 Browse the source code here:  
-🔗 [GitHub Repository](https://github.com/yourusername/OIBSIP_Calculator_Task1) *(Replace with your actual GitHub repo link)*
+🔗 [GitHub Repository] https://github.com/Hithyshini8/OIBSIP_WebDevelopment_Task1
 
 ---
 
@@ -79,13 +80,6 @@ Browse the source code here:
 
 ---
 
-## 📢 Social Post
-
-I’ve completed Level 2 Task 1 of the #OasisInfobyte Web Development Internship!  
-Built a simple yet powerful **Calculator** using #HTML #CSS and #JavaScript.  
-Check it out! 🚀  
-🔗 GitHub: *[your repo]*  
-🔗 Video: *[your demo link]*
 
 #OIBSIP #WebDevelopment #Internship #CalculatorApp #FrontendDevelopment #JavaScriptProjects #LearningByDoing
 
@@ -102,4 +96,4 @@ Check it out! 🚀
 
 ## 📃 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-sourcE.
